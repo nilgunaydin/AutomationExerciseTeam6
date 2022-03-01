@@ -9,7 +9,7 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import java.time.Duration;
 
-public class Driver {//mustafa
+public class Driver {
 
     private  Driver(){
 
