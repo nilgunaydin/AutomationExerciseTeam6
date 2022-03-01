@@ -6,9 +6,8 @@ import utilities.Driver;
 public class MainPage {
    public MainPage(){
     PageFactory.initElements(Driver.getDriver(),this);
+
     }
-
-
 
 
 }
